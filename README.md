@@ -13,9 +13,9 @@
 ## Demo
 
 **Connect**<br>
-![]()
+![](https://raw.githubusercontent.com/MrNegativeTW/Qucik-ADB-Wireless/master/Demo_Pics/Demo_Connect.gif)
 **Disconnect**
-![]()
+![](https://raw.githubusercontent.com/MrNegativeTW/Qucik-ADB-Wireless/master/Demo_Pics/Demo_Disconnect.gif)
 
 
 ## Getting Started
