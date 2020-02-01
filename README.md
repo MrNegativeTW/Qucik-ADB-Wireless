@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/Platform-macOS-important)
 ![](https://img.shields.io/badge/Python-3.5%20Above-success)
-![](https://img.shields.io/badge/License-MIT-blue)<br>
+![](https://img.shields.io/badge/License-GNU%20GPLv3-blue)<br>
 
 </div>
 
@@ -40,4 +40,4 @@ source ~/.bash_profile
 2. Run `python3 WADB.py` in terminal
 
 ## License
-MIT
+GNU GPLv3
